@@ -1,9 +1,5 @@
 ### 你好，我是 Lykinzlj
 
-中山大学信息管理学院学生。正在做 AI 辅助学习、本地优先应用和桌面伙伴相关的开源项目。
-
-欢迎通过项目的 Issues 交流使用反馈、问题和想法。
-
 #### 正在做
 
 - [desktop-pet-community](https://github.com/xunguangzlj-cloud/desktop-pet-community) — 可自定义动作与人物技能的桌面伙伴，支持 AI 工作状态、可选插件及桌宠与插件共创。
