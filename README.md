@@ -1,6 +1,6 @@
 ### 你好，我是 Lykinzlj
 
-#### 正在做
+#### Building
 
 - [desktop-pet-community](https://github.com/xunguangzlj-cloud/desktop-pet-community) — 可自定义动作与人物技能的桌面伙伴，支持 AI 工作状态、可选插件及桌宠与插件共创。
 - [danya-pet](https://github.com/xunguangzlj-cloud/danya-pet) — 鸣潮达妮娅三形态同人桌宠，包含 83 个透明动画，支持拖拽甩抛与 AI 工具接入。
@@ -12,7 +12,7 @@
 - [miaomiao-mimi](https://github.com/xunguangzlj-cloud/miaomiao-mimi) — 猫咪主题逻辑解谜微信小游戏，包含 99 关、盆栽打卡与成长外观。
 - [xuanhuan-qilv](https://github.com/xunguangzlj-cloud/xuanhuan-qilv) — 旋环奇旅，微信小游戏与浏览器预览工程。
 
-#### 开源贡献
+#### Contributing to
 
 - [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/2125) — 修复知识库文档因文件名冲突重命名后，重试导入仍重复创建副本的问题。已合并。
 - [hallmark](https://github.com/Nutlope/hallmark/pull/103) — 按真实路径去重目录与文件，避免目录链接导致循环遍历或重复检查。已合并。
