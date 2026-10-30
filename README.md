@@ -1,5 +1,3 @@
-### 你好，我是 Lykinzlj
-
 #### Building
 
 - [desktop-pet-community](https://github.com/xunguangzlj-cloud/desktop-pet-community) — 可自定义动作与人物技能的桌面伙伴，支持 AI 工作状态、可选插件及桌宠与插件共创。
