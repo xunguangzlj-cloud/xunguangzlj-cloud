@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | 修复 CSV 数据源读取 CR 换行时异常，并保留引号字段内的原始换行。 | [#551](https://github.com/D4Vinci/Scrapling/pull/551) |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | 修复 Windows 下 Claude CLI 误选无扩展名脚本的问题，并修正 CLI 路径测试的跨平台兼容性。 | [#5254](https://github.com/thedotmack/claude-mem/pull/5254) · [#5257](https://github.com/thedotmack/claude-mem/pull/5257) |
 | [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 补齐无 adb 环境的测试兼容性，为小米浏览器基本模式增加跳过保护，补充 vivo 应用商店的实测文档，并让启动前台异常提示指出实际停留的页面。 | [#470](https://github.com/rddmwmddr/android-ad-cleaner/pull/470) · [#472](https://github.com/rddmwmddr/android-ad-cleaner/pull/472) · [#473](https://github.com/rddmwmddr/android-ad-cleaner/pull/473) · [#552](https://github.com/rddmwmddr/android-ad-cleaner/pull/552) |
 | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 修复机器人迁移后，借出电脑的屏幕控制请求被迁移冻结机制拦截的问题。 | [#4125](https://github.com/milind-soni/OpenMausBot/pull/4125) |
