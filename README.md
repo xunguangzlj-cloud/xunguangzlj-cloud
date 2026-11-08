@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Leaflet](https://github.com/Leaflet/Leaflet) | 修复地图边界重叠判断，将零面积的点和线与有面积的交叠区分开。 | [#10547](https://github.com/Leaflet/Leaflet/pull/10547) |
 | [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) | 修复 Windows 下的日志堆栈路径识别，使日志显示实际调用模块。 | [#4337](https://github.com/MagicMirrorOrg/MagicMirror/pull/4337) |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 修复 CSV 数据源读取 CR 换行时异常，并保留引号字段内的原始换行。 | [#551](https://github.com/D4Vinci/Scrapling/pull/551) |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | 修复 Windows 下 Claude CLI 误选无扩展名脚本的问题，并修正 CLI 路径测试的跨平台兼容性。 另修复观察器故障计时和认证暂停恢复，并在处理状态中显示最近成功写入时间及已用尽重试次数的会话。 另传递 Claude Code 停止钩子的最后一条回复，并保留裁剪后仍可用的压缩结果。 | [#5254](https://github.com/thedotmack/claude-mem/pull/5254) · [#5257](https://github.com/thedotmack/claude-mem/pull/5257) · [#5380](https://github.com/thedotmack/claude-mem/pull/5380) · [#5383](https://github.com/thedotmack/claude-mem/pull/5383) · [#5408](https://github.com/thedotmack/claude-mem/pull/5408) · [#5409](https://github.com/thedotmack/claude-mem/pull/5409) · [#5449](https://github.com/thedotmack/claude-mem/pull/5449) · [#5452](https://github.com/thedotmack/claude-mem/pull/5452) |
