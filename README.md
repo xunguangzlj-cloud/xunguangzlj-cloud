@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) | 说明平台矩阵标签如何展开变量，避免裸变量让任务一直等待匹配。 | [#7511](https://github.com/woodpecker-ci/woodpecker/pull/7511) |
 | [Leaflet](https://github.com/Leaflet/Leaflet) | 修复地图边界重叠判断，将零面积的点和线与有面积的交叠区分开。另修复汇总图层缩放边界时 NaN 污染地图缩放范围。 | [#10547](https://github.com/Leaflet/Leaflet/pull/10547) · [#10548](https://github.com/Leaflet/Leaflet/pull/10548) |
 | [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) | 修复 Windows 下的日志堆栈路径识别，使日志显示实际调用模块。 | [#4337](https://github.com/MagicMirrorOrg/MagicMirror/pull/4337) |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 修复 CSV 数据源读取 CR 换行时异常，并保留引号字段内的原始换行。 | [#551](https://github.com/D4Vinci/Scrapling/pull/551) |
