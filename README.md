@@ -2,8 +2,10 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Spec Kit](https://github.com/github/spec-kit) | 更正移除预设目录后的回退顺序提示，并将未知预设 ID 按字面文本显示。 | [#5313](https://github.com/github/spec-kit/pull/5313) · [#5314](https://github.com/github/spec-kit/pull/5314) |
+| [Hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 按字面值匹配父路径，并将结论矩阵中的发现限定为选中的运行。 | [#193](https://github.com/jordan-gibbs/hyperresearch/pull/193) · [#195](https://github.com/jordan-gibbs/hyperresearch/pull/195) |
 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 恢复桌面窗口时将部分越界的位置拉回工作区。 | [#3533](https://github.com/bggRGjQaUbCoE/PiliPlus/pull/3533) |
-| [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 识别 Antigravity CLI 的 agy 可执行文件。 | [#1218](https://github.com/Asymptote-Labs/agent-beacon/pull/1218) |
+| [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 识别 Antigravity CLI 的 agy 可执行文件。 另按 Antigravity CLI 的格式写入钩子配置。 | [#1218](https://github.com/Asymptote-Labs/agent-beacon/pull/1218) · [#1219](https://github.com/Asymptote-Labs/agent-beacon/pull/1219) |
 | [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) | 说明平台矩阵标签如何展开变量，避免裸变量让任务一直等待匹配。 | [#7511](https://github.com/woodpecker-ci/woodpecker/pull/7511) |
 | [Leaflet](https://github.com/Leaflet/Leaflet) | 修复地图边界重叠判断，将零面积的点和线与有面积的交叠区分开。另修复汇总图层缩放边界时 NaN 污染地图缩放范围。 | [#10547](https://github.com/Leaflet/Leaflet/pull/10547) · [#10548](https://github.com/Leaflet/Leaflet/pull/10548) |
 | [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) | 修复 Windows 下的日志堆栈路径识别，使日志显示实际调用模块。 另保留天气数据源返回的 0°C 体感温度。 | [#4337](https://github.com/MagicMirrorOrg/MagicMirror/pull/4337) · [#4336](https://github.com/MagicMirrorOrg/MagicMirror/pull/4336) |
