@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Gopeed](https://github.com/GopeedLab/gopeed) | 网页端先读取已保存的统计偏好，仅在用户启用统计时发送页面启动事件。 | [#1656](https://github.com/GopeedLab/gopeed/pull/1656) |
 | [Spec Kit](https://github.com/github/spec-kit) | 更正移除预设目录后的回退顺序提示，并将未知预设 ID 按字面文本显示。 | [#5313](https://github.com/github/spec-kit/pull/5313) · [#5314](https://github.com/github/spec-kit/pull/5314) |
 | [Hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 按字面值匹配父路径，并将结论矩阵中的发现限定为选中的运行。 | [#193](https://github.com/jordan-gibbs/hyperresearch/pull/193) · [#195](https://github.com/jordan-gibbs/hyperresearch/pull/195) |
 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 恢复桌面窗口时将部分越界的位置拉回工作区。 | [#3533](https://github.com/bggRGjQaUbCoE/PiliPlus/pull/3533) |
