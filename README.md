@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 正确标记布局偏移从零开始的退化趋势，并在 GA4 热门页面查询失败时显示错误。 | [#393](https://github.com/AgriciDaniel/claude-seo/pull/393) · [#406](https://github.com/AgriciDaniel/claude-seo/pull/406) |
 | [Gopeed](https://github.com/GopeedLab/gopeed) | 网页端先读取已保存的统计偏好，仅在用户启用统计时发送页面启动事件。 | [#1656](https://github.com/GopeedLab/gopeed/pull/1656) |
 | [Spec Kit](https://github.com/github/spec-kit) | 更正移除预设目录后的回退顺序提示，并将未知预设 ID 按字面文本显示。 | [#5313](https://github.com/github/spec-kit/pull/5313) · [#5314](https://github.com/github/spec-kit/pull/5314) |
 | [Hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 按字面值匹配父路径，并将结论矩阵中的发现限定为选中的运行。 | [#193](https://github.com/jordan-gibbs/hyperresearch/pull/193) · [#195](https://github.com/jordan-gibbs/hyperresearch/pull/195) |
@@ -16,7 +17,7 @@
 | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 修复机器人迁移后，借出电脑的屏幕控制请求被迁移冻结机制拦截的问题。 同步 OpenCode 安装描述与独立安装版本。 | [#4125](https://github.com/milind-soni/OpenMausBot/pull/4125) · [#4231](https://github.com/milind-soni/OpenMausBot/pull/4231) |
 | [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 为闰月归属策略增加运行时校验，避免非法值静默参与排盘，并为分享链接提供默认值回退。 另保留分享链接中的零度经度，并处理无效分享参数。 | [#71](https://github.com/Renhuai123/ziwei-doushu/pull/71) · [#83](https://github.com/Renhuai123/ziwei-doushu/pull/83) |
 | [text-to-cad](https://github.com/earthtojake/text-to-cad) | 保留校验器目标文件名中的空白字符，避免文件路径被错误处理。 | [#721](https://github.com/earthtojake/text-to-cad/pull/721) |
-| [hallmark](https://github.com/Nutlope/hallmark) | 按真实路径去重目录与文件，避免目录链接导致循环遍历或重复检查。 生成图片时校验批次大小，避免异常响应覆盖已有输出。 | [#103](https://github.com/Nutlope/hallmark/pull/103) · [#123](https://github.com/Nutlope/hallmark/pull/123) |
+| [hallmark](https://github.com/Nutlope/hallmark) | 按真实路径去重目录与文件，避免目录链接导致循环遍历或重复检查。 生成图片时校验批次大小，避免异常响应覆盖已有输出。 避免不同路由的同名截图相互覆盖，并让主题预览只在可见卡片间切换。 | [#103](https://github.com/Nutlope/hallmark/pull/103) · [#123](https://github.com/Nutlope/hallmark/pull/123) · [#126](https://github.com/Nutlope/hallmark/pull/126) · [#133](https://github.com/Nutlope/hallmark/pull/133) |
 | [DeepTutor](https://github.com/HKUDS/DeepTutor) | 修复知识库文档因文件名冲突重命名后，重试导入仍重复创建副本的问题。 | [#2125](https://github.com/HKUDS/DeepTutor/pull/2125) |
 
 
