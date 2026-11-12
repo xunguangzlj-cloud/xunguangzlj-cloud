@@ -2,8 +2,9 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [ThinkRail](https://github.com/JetBrains/thinkrail) | 修复国际化扫描漏报类型包装表达式中的硬编码文案。 | [#993](https://github.com/JetBrains/thinkrail/pull/993) |
 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 正确标记布局偏移从零开始的退化趋势，并在 GA4 热门页面查询失败时显示错误。 | [#393](https://github.com/AgriciDaniel/claude-seo/pull/393) · [#406](https://github.com/AgriciDaniel/claude-seo/pull/406) |
-| [Gopeed](https://github.com/GopeedLab/gopeed) | 网页端先读取已保存的统计偏好，仅在用户启用统计时发送页面启动事件。 | [#1656](https://github.com/GopeedLab/gopeed/pull/1656) |
+| [Gopeed](https://github.com/GopeedLab/gopeed) | 网页端先读取已保存的统计偏好，仅在用户启用统计时发送页面启动事件。 另按实际采样时间计算传输速率，并单独统计 BT 已校验的下载进度。 | [#1656](https://github.com/GopeedLab/gopeed/pull/1656) · [#1654](https://github.com/GopeedLab/gopeed/pull/1654) |
 | [Spec Kit](https://github.com/github/spec-kit) | 更正移除预设目录后的回退顺序提示，并将未知预设 ID 按字面文本显示。 | [#5313](https://github.com/github/spec-kit/pull/5313) · [#5314](https://github.com/github/spec-kit/pull/5314) |
 | [Hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | 按字面值匹配父路径，并将结论矩阵中的发现限定为选中的运行。 | [#193](https://github.com/jordan-gibbs/hyperresearch/pull/193) · [#195](https://github.com/jordan-gibbs/hyperresearch/pull/195) |
 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 恢复桌面窗口时将部分越界的位置拉回工作区。 | [#3533](https://github.com/bggRGjQaUbCoE/PiliPlus/pull/3533) |
