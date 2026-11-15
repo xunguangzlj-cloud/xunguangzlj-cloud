@@ -2,6 +2,9 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | 字数检查遇到同名目录时逐文件报告错误，并继续检查其他章节。 | [#55](https://github.com/PenglongHuang/chinese-novelist-skill/pull/55) |
+| [Plannotator](https://github.com/backnotprop/plannotator) | OpenCode 注释入口优先选中真实用户提示对应的回复。 | [#3358](https://github.com/backnotprop/plannotator/pull/3358) |
+| [Floorplan](https://github.com/haydenschmitty/floorplan) | 支持识别任意变量名下的 Hono 和 Express 路由。 | [#103](https://github.com/haydenschmitty/floorplan/pull/103) |
 | [AppFlowy Web](https://github.com/AppFlowy-IO/AppFlowy-Web) | 公式按日历日期比较纯日期值。 | [#720](https://github.com/AppFlowy-IO/AppFlowy-Web/pull/720) |
 | [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) | 在用户偏好中显示下次登录改密要求，并修复目录选择器单击返回上级的行为。 | [#3354](https://github.com/gtsteffaniak/filebrowser/pull/3354) · [#3355](https://github.com/gtsteffaniak/filebrowser/pull/3355) |
 | [ThinkRail](https://github.com/JetBrains/thinkrail) | 修复国际化扫描漏报类型包装表达式中的硬编码文案。 | [#993](https://github.com/JetBrains/thinkrail/pull/993) |
