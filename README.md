@@ -2,6 +2,7 @@
 
 | 项目 | 已合并 | PR |
 | --- | --- | --- |
+| [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 将三份技能描述缩短至 Agent Skills 的字符限制内，保留中文触发词并同步索引。 | [#92](https://github.com/elementalsouls/Claude-BugHunter/pull/92) |
 | [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | 字数检查遇到同名目录时逐文件报告错误，并继续检查其他章节。 | [#55](https://github.com/PenglongHuang/chinese-novelist-skill/pull/55) |
 | [Plannotator](https://github.com/backnotprop/plannotator) | OpenCode 注释入口优先选中真实用户提示对应的回复。 | [#3358](https://github.com/backnotprop/plannotator/pull/3358) |
 | [Floorplan](https://github.com/haydenschmitty/floorplan) | 支持识别任意变量名下的 Hono 和 Express 路由。 | [#103](https://github.com/haydenschmitty/floorplan/pull/103) |
